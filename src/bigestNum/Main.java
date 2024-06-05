@@ -1,6 +1,6 @@
 package bigestNum;
 
-public class main {
+public class Main {
 	
 	int anzahlNum; 
 	int[] listeZahlen;

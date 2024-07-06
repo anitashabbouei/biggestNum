@@ -7,8 +7,10 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		//findingBiggestNum test1 = new findingBiggestNum();
+		findingBiggestNum test1 = new findingBiggestNum();
+		biggestNumFrame();
 		//System.out.println(test1.listeAnZahlen);
+
 	}
 	
 
